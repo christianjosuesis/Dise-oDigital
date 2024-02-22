@@ -11,6 +11,6 @@ package com.mycompany.digital;
 public class Digital {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola desde el portal de github!");
     }
 }
